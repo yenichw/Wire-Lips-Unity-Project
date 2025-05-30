@@ -29,6 +29,8 @@ This project is a reverse-engineering reconstruction of the Unity-based game **W
 - run unity project
 - enjoy
 
+---
+
 ## ❗known issues
 
 - does not work transition from the menu to the game, everything else seems to work.
