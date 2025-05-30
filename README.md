@@ -2,8 +2,7 @@
 
 
 > ⚠️ **Disclaimer:** This repository contains a fully reconstructed Unity project based on the game **Wire Lips**.  
-> It is intended **solely for educational, research, and interoperability purposes**.  
-> **No original copyrighted models, textures, or music are included.**
+> It is intended **solely for educational, research, and interoperability purposes**.
 
 ---
 
