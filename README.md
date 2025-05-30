@@ -36,7 +36,7 @@ This project is a reverse-engineering reconstruction of the Unity-based game **W
 
 ---
 
-🧠 Join  [my chanel](https://t.me/link_executable) and [ou chat](https://t.me/ytf_cmn_chat) if you have any ideas you'd like to propose, or just socialize and see future game breakdowns, or fixes to repositories.
+🧠 Join  [my chanel](https://t.me/link_executable) and [our chat](https://t.me/ytf_cmn_chat) if you have any ideas you'd like to propose, or just socialize and see future game breakdowns, or fixes to repositories.
 
 ---
 
