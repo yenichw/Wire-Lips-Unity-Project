@@ -18,7 +18,7 @@ This project is a reverse-engineering reconstruction of the Unity-based game **W
 
 - 📌 Use for non-commercial learning and modding only
 - 🚫 Do not use original assets or redistribute them
-- ✅ Share your modifications under the same license
+- ✅ Share your modifications
 
 ---
 
