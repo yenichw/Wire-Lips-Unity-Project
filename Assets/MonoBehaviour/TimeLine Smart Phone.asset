@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Smart Phone
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 0f58b4e4048657c4fa4461cf6d548a7f, type: 2}
+  - {fileID: 11400000, guid: 666990a5685b5c94f99c9406a5e9eeef, type: 2}
+  - {fileID: 11400000, guid: aac893792dcc00d45822eec01e708b3b, type: 2}
+  - {fileID: 11400000, guid: 176337adc513c4f4cb466f9790866144, type: 2}
+  - {fileID: 11400000, guid: 706b43e6bad62d944b09dcc3db32244d, type: 2}
+  - {fileID: 11400000, guid: 29c65f8876536ea438e6cbb785c8a315, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: eece96dfeb8fae940b1c06cd1f32a717, type: 2}

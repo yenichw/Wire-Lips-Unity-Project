@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1544527758, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Animations
+  m_EditorClassIdentifier:
+  m_Version: 3
+  m_AnimClip: {fileID: 0}
+  m_Locked: 0
+  m_Muted: 0
+  m_CustomPlayableFullTypename:
+  m_Curves: {fileID: 0}
+  m_Parent: {fileID: 11400000, guid: 1dbf55190928d8e4cabd0281c2c286e9, type: 2}
+  m_Children:
+  - {fileID: 11400000, guid: 1c87b278ab1e9b04dac3e1007557f57e, type: 2}
+  - {fileID: 11400000, guid: 4d7bfde01ea4d334dbcb74f8cc618bcb, type: 2}
+  - {fileID: 11400000, guid: 389818a73cecf314d97648125d9d6e47, type: 2}
+  - {fileID: 11400000, guid: c9afbff4240189e48a2455a02da0f954, type: 2}
+  - {fileID: 11400000, guid: a78c5f519994c0043a07dd5de0d42ff2, type: 2}
+  - {fileID: 11400000, guid: b1cc43779ae187a4ab6f5f4b78e48806, type: 2}
+  m_Clips: []
+  m_Markers:
+    m_Objects: []

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine 5 Teapot Teacup
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 2e301b6d73d23e64ebf5f78e898f2c4d, type: 2}
+  - {fileID: 11400000, guid: 58cd6148226a798438776eb242d0e117, type: 2}
+  - {fileID: 11400000, guid: 33e871e8d08342e42b199c330bb1330e, type: 2}
+  - {fileID: 11400000, guid: 548cbc5d4fd3ce14a9d2279abebb6f49, type: 2}
+  - {fileID: 11400000, guid: bacc33531ee5b4f4596c7abd2efb8bcf, type: 2}
+  - {fileID: 11400000, guid: 5a79bd232a0e47f459b4cb8b1bd13c2c, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 807a14f4e4f310740a39674a6aa52a76, type: 2}

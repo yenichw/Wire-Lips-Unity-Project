@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Braclet Look
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: c307943ccf150304d9db4c0f14f4ef87, type: 2}
+  - {fileID: 11400000, guid: 72844260ee9c37848be02cb55bed583a, type: 2}
+  - {fileID: 11400000, guid: d732e134480613448a2340614970eca1, type: 2}
+  - {fileID: 11400000, guid: f23a63c1d153839449fdcf351aa9cf5e, type: 2}
+  - {fileID: 11400000, guid: befccfba6f5af8149aaa562aec164f22, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: b1e611e96eb0e124791c3193ba18a99b, type: 2}

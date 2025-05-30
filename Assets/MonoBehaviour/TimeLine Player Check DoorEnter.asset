@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Player Check DoorEnter
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 9b3bf447d65c3ce42939788bb5174a3b, type: 2}
+  - {fileID: 11400000, guid: 04e126287fe901948a071be30f5d8096, type: 2}
+  - {fileID: 11400000, guid: 329d9b37ce2bcd94ea69d2bedbd267d9, type: 2}
+  - {fileID: 11400000, guid: 6028752e9e69dd440a0158e2d9dbd60e, type: 2}
+  - {fileID: 11400000, guid: c2c42aa0346e76b4e8a5ae4058ded458, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 48c390387fdff1b49a7200bb1538e9d1, type: 2}

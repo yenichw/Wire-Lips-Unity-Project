@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Teacups Teleports
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 7dc9d0493d0f0184ba645f23a9c7fc10, type: 2}
+  - {fileID: 11400000, guid: 6267020c29fb2a44d8e1724fb412f8d3, type: 2}
+  - {fileID: 11400000, guid: eaa089f56c855274ba05138335cc2c33, type: 2}
+  - {fileID: 11400000, guid: c9fec70d0c92ad74e9955c8bb5b304c9, type: 2}
+  - {fileID: 11400000, guid: 0452bd823384aec48a5590a39c6e2c0e, type: 2}
+  - {fileID: 11400000, guid: b4c0935521601d14c9f22264360bdcbe, type: 2}
+  - {fileID: 11400000, guid: 86943549b952bbb40a781e4d2398bea0, type: 2}
+  - {fileID: 11400000, guid: 0cae5fadb0c559145b290ddeb17b59c9, type: 2}
+  - {fileID: 11400000, guid: 2acb1f1cb875c2b45915f29c734569c8, type: 2}
+  - {fileID: 11400000, guid: 5a04ab8b5e98df04c87b99233ae1f829, type: 2}
+  - {fileID: 11400000, guid: 89933d21e11b65a4c8f110b563581fe6, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 1faf8902d9da05642b7d4105cf84d4c5, type: 2}

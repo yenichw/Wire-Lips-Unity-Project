@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine 2 ZipPhoto
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 2c7768e3617ca954486293e695cbe84b, type: 2}
+  - {fileID: 11400000, guid: 8e7bdbb95ac2fe4489c999c5a0f439c7, type: 2}
+  - {fileID: 11400000, guid: 15c65375148a2b040934f36ec31150cb, type: 2}
+  - {fileID: 11400000, guid: 0c62f6b7b111e8d408b0394f53deefb4, type: 2}
+  - {fileID: 11400000, guid: 18c040ee93f034643830a3bceda31687, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 3990bcc3f9b0d354c80a3724402de818, type: 2}

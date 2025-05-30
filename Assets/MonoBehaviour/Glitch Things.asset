@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Glitch Things
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 6f1613e595cac8349ae5ad28dd30f1f2, type: 2}
+  - {fileID: 11400000, guid: b16890e54443829418439f27afc78231, type: 2}
+  - {fileID: 11400000, guid: 9cf96c9a9311c5b4a8a6f8d252a413e0, type: 2}
+  - {fileID: 11400000, guid: 8aa6ffc34b9c47147b41017ac41652df, type: 2}
+  - {fileID: 11400000, guid: 03cdbea893b521a4db31a39f0946e752, type: 2}
+  - {fileID: 11400000, guid: f6913d430a981cf48a7bd68cbafa39e0, type: 2}
+  - {fileID: 11400000, guid: 069e3dda7bcebf44a80faa4e7c6459e0, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: b3fbbff120eb6d44eb7ee3818598e5e1, type: 2}

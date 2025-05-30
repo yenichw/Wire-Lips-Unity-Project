@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine 2 Look Kitchen Door
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 860955aafee11394f9d2e647eb50cbbe, type: 2}
+  - {fileID: 11400000, guid: 1732961290bd23b46b5c4180f534755d, type: 2}
+  - {fileID: 11400000, guid: d41c61cb0be1aef4ca562344ebf738f1, type: 2}
+  - {fileID: 11400000, guid: 824b610ab09cf484e93e6a3b58245e7f, type: 2}
+  - {fileID: 11400000, guid: 1b3b25818d25bd1418031cbbb105a439, type: 2}
+  - {fileID: 11400000, guid: 2e67d7cac41e91946864d9f5e6fe998d, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: e8ce6039e44d02e4188d0c51e0165a6f, type: 2}

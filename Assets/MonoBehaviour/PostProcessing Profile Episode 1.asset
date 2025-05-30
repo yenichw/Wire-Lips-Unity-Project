@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2099961501, guid: e161fae64b898bc22624d03ed611378f, type: 3}
+  m_Name: PostProcessing Profile Episode 1
+  m_EditorClassIdentifier:
+  settings:
+  - {fileID: 11400000, guid: 8b18788fa8362ad459091d8badcdaf14, type: 2}
+  - {fileID: 11400000, guid: 8ad2767613ac9cd4a96c975dc251ccbd, type: 2}
+  - {fileID: 11400000, guid: 1b7eda6868909a24aa574d0bd4600d88, type: 2}
+  - {fileID: 11400000, guid: 33058ccf0b6478d4c85d1a59c3326b2a, type: 2}

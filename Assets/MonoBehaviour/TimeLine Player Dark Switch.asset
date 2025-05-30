@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Player Dark Switch
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 5df7b406a5f3ac949813711690a4b707, type: 2}
+  - {fileID: 11400000, guid: be05b67e52c940d448a35d275d39b46a, type: 2}
+  - {fileID: 11400000, guid: 9232e558212d24144b40a639c97abbe5, type: 2}
+  - {fileID: 11400000, guid: 00683d25adb8b0e4fbc0a107807485e4, type: 2}
+  - {fileID: 11400000, guid: 7290367393126b0448c1969245481f26, type: 2}
+  - {fileID: 11400000, guid: cb01118a5bb4b6948ae5b9772015aa9a, type: 2}
+  - {fileID: 11400000, guid: 5afbb89712ad85e4d9218f64e7804657, type: 2}
+  - {fileID: 11400000, guid: 141ed4d9e06ad07478d825cc4a14d8db, type: 2}
+  - {fileID: 11400000, guid: e5c174615e3c7e0449eb67a34757f58a, type: 2}
+  - {fileID: 11400000, guid: 8cd662c17c2fced4cbeeb56d71587dae, type: 2}
+  - {fileID: 11400000, guid: e85c96a3e5b3048409fae69d90883ba3, type: 2}
+  - {fileID: 11400000, guid: 9ff7e35944917f84383f49edb3c87abc, type: 2}
+  - {fileID: 11400000, guid: f7cb72e85c4500647967cab2249e059c, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 77394593f5bc35349ae52141d24fdf56, type: 2}

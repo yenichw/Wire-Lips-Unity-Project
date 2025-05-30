@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Dark Window
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: b0e70d70c48722b49b8e878d89ab4d18, type: 2}
+  - {fileID: 11400000, guid: 7d41ad2912ac4f34ba7c9ffabfc8eafa, type: 2}
+  - {fileID: 11400000, guid: 61d16cf8899df0a4c8b16431cb8100fd, type: 2}
+  - {fileID: 11400000, guid: 026d8b668e7dc764ab1f12001b778e54, type: 2}
+  - {fileID: 11400000, guid: 919405f687c83c444a5e57f6851e4332, type: 2}
+  - {fileID: 11400000, guid: a2b1850c94025e14a9b3efaaa91837cf, type: 2}
+  - {fileID: 11400000, guid: 5e681d02ddadb624fbc0aa044b4b8b0f, type: 2}
+  - {fileID: 11400000, guid: 68693793cd3016c43ac3e05735dabf8d, type: 2}
+  - {fileID: 11400000, guid: 01387bedcc0f8744183f22762cc58166, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 7b989a2816d22aa49bb4528b855675a7, type: 2}

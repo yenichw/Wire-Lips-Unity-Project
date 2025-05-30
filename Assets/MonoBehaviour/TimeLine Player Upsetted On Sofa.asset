@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Player Upsetted On Sofa
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: b1ed6236d89d16f41982c7c9d5ad4f15, type: 2}
+  - {fileID: 11400000, guid: ece55b05699687844a993eb9c95ca5fa, type: 2}
+  - {fileID: 11400000, guid: bb25e8e683872d94aa05abec8f0fa4f2, type: 2}
+  - {fileID: 11400000, guid: 095f8585bee20c24aa37b1cf7777ec51, type: 2}
+  - {fileID: 11400000, guid: 1f70a1aeb86915f4b872c3d3f504032e, type: 2}
+  - {fileID: 11400000, guid: de1e82a529ba52240b5567308d1d954a, type: 2}
+  - {fileID: 11400000, guid: f5785f8e234f5e940b40d81b091ab965, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 378375693f801cf418c5a5b3eee02341, type: 2}

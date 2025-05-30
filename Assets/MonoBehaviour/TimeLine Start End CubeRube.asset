@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine Start End CubeRube
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 6a56db2ec3d0f904995520e4766c44fa, type: 2}
+  - {fileID: 11400000, guid: 78714bbfdbe074548b683d691ec88b5a, type: 2}
+  - {fileID: 11400000, guid: 4b07c4d7eafd0fc4e92537d7119b7591, type: 2}
+  - {fileID: 11400000, guid: 36d04429535e1b94db3079230322514f, type: 2}
+  - {fileID: 11400000, guid: 4d06dcc607b3b534a9b78b827e376719, type: 2}
+  - {fileID: 11400000, guid: ec47101299b62454d88d58748eb4a181, type: 2}
+  - {fileID: 11400000, guid: 3afc39b38602f7f4089e90b2eec56230, type: 2}
+  - {fileID: 11400000, guid: 7ecd0eb0bab181b43aa8d0cc1c583514, type: 2}
+  - {fileID: 11400000, guid: 0c42e1827022dd84e92c9c0a0e7c8d5d, type: 2}
+  - {fileID: 11400000, guid: a886ee67b4758be4482ce58a602b0382, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 6ee3f5d066750fe47aaee67630b992e3, type: 2}

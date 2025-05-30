@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine 8 End
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 279a36b57f17e0049b3b88aae9581744, type: 2}
+  - {fileID: 11400000, guid: bd240d95801a0bd4da14a742cc926c79, type: 2}
+  - {fileID: 11400000, guid: 3674b64e4310e4b43b9ec6cd08828017, type: 2}
+  - {fileID: 11400000, guid: ed2591cf0031c7644985e1ec6af39ffd, type: 2}
+  - {fileID: 11400000, guid: 4b8309e4218540b49a0de2f8d2cadc84, type: 2}
+  - {fileID: 11400000, guid: 65cdfab8235ac0f46857597ab1800894, type: 2}
+  - {fileID: 11400000, guid: 48e5b0fb46238df4e8d27fc43de222fa, type: 2}
+  - {fileID: 11400000, guid: 0527823b0058f6544882812b27f1fddf, type: 2}
+  - {fileID: 11400000, guid: 799578d5d6639eb40b7e052f64e11c3b, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 9cdf9cd368ce7ca4ea59307c1bca0ab2, type: 2}

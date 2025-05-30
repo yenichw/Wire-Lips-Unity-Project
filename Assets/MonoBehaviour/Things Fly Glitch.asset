@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: Things Fly Glitch
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 14aa35db7cd1c3343801d953dabda86d, type: 2}
+  - {fileID: 11400000, guid: 2c7dc2dcd63415549882ffd9fdeffff5, type: 2}
+  - {fileID: 11400000, guid: ed6ab4dc296d5214585c3773d8a20b12, type: 2}
+  - {fileID: 11400000, guid: 564eae8af25ef1e4e8c81f7c76797c95, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: ab90803e9b0d6c74e897584390c63539, type: 2}

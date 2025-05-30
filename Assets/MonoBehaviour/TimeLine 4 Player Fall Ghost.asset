@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine 4 Player Fall Ghost
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: e244022ac68be444d8d80b5a9d913fee, type: 2}
+  - {fileID: 11400000, guid: 57a4b3819740be847950d7b07745d213, type: 2}
+  - {fileID: 11400000, guid: 9ddb2ce2a6b581a4989f740b4566caba, type: 2}
+  - {fileID: 11400000, guid: 7469612fbd077c741a5729e443008e7f, type: 2}
+  - {fileID: 11400000, guid: 2497edd3df0ad964db52f26c1a2f447d, type: 2}
+  - {fileID: 11400000, guid: 9041bad09a8859f4c993dd0be4d8e45a, type: 2}
+  - {fileID: 11400000, guid: 2fcdf004943603440bcad1849c7ad102, type: 2}
+  - {fileID: 11400000, guid: 19a41f42009adbe4cbacb4e7add7525e, type: 2}
+  - {fileID: 11400000, guid: 84a47b17e2eedaa4b8ccfe66e66f0a70, type: 2}
+  - {fileID: 11400000, guid: 91361f97b4ac28d4c803531470db180b, type: 2}
+  - {fileID: 11400000, guid: 7ec81cb0a81e92c428bd5132c6914d59, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: 5f904d825ec41b641bb57066c63b13d4, type: 2}

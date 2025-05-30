@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 337831424, guid: 1f79187d04fa6fdd168e19d4bafe7dfa, type: 3}
+  m_Name: TimeLine 7 Look Dark Ghost
+  m_EditorClassIdentifier:
+  m_Version: 0
+  m_Tracks:
+  - {fileID: 11400000, guid: 506dbbd2d12bde64dabecfd80bdf71f1, type: 2}
+  - {fileID: 11400000, guid: 8e06f990de0ec794eaa1cf1881986d4c, type: 2}
+  - {fileID: 11400000, guid: 890c170d3ab7ef64b8148bf107de29ad, type: 2}
+  - {fileID: 11400000, guid: 7706bbe8322417543a7cc46038e2597c, type: 2}
+  - {fileID: 11400000, guid: 8694a62799991024ba1e1ace8b0bb3b9, type: 2}
+  m_FixedDuration: 0
+  m_EditorSettings:
+    m_Framerate: 60
+  m_DurationMode: 0
+  m_MarkerTrack: {fileID: 11400000, guid: b330d06798deece49905c92a29fb3e50, type: 2}
